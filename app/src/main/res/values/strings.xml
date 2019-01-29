@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AniThings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_anime_detail">AnimeDetail</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- used as tags for shared element transitions -->
+    <string name="transition_thumbnail">thumbnail</string>
+    <string name="transition_title">title</string>
+    <string name="transition_time_and_date">date</string>
+    <string name="title_toolbar">List Activity</string>
+    <string name="rating">Rating</string>
+    <string name="start_date">Start date</string>
+    <string name="end_date">End date</string>
+    <string name="show_type">Show type</string>
+    <string name="episode">Episode</string>
+    <string name="duration">Duration</string>
+    <string name="status">Status</string>
+    <string name="poster_image">Poster Image</string>
+    <string name="cover_image">Cover Image</string>
+
+    <string name="edu.upi.cs.drake.anithing.PREFERENCE_KEY">PREFERENCE_FILE_KEY_ANITHING</string>
+    <string name="shared_preference_anime">KEY_ANIME</string>
+    <string name="shared_preference_anime_filter">KEY_ANIME_FILTER</string>
+    <string name="popular_anime_menu">Popular Anime</string>
+    <string name="top_rated_anime_menu">Top Rated Anime</string>
+    <string name="currently_airing_menu">Currently Airing</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="retry_string">There is something wrong with the connection click retry button</string>
+    <string name="anime_not_found">Anime not found, try another search query</string>
+    <string name="anime_cover_image">Anime Cover Image</string>
+    <string name="retry_button">Retry</string>
+</resources>
